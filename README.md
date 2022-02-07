@@ -1,8 +1,8 @@
 ## Knowledge Required:
 
- - React Components;
- - Props;
- - Proptypes.
+ - Components with State;
+ - Events;
+ - Forms.
 
 ## Preview:
 
